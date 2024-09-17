@@ -13,15 +13,16 @@
 
 ## Как запустить
 
-1. Скачать следующие библиотеки:
+1. Скачивайте в свою среду pip install stable-baselines3[extra] protobuf==3.20.*
+2. Скачать следующие библиотеки туда же:
 -gymnasium 0.29.1
 -pygame 2.6.0
 -torch 2.4.0+cu118
 -torchaudio 2.4.0+cu118
 -torchvision 0.19.0+cu118
 простой командой pip install torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/cu118 .
-2. Запустить файл file.py.
-3. Ввести ник.
-4. Играть.
+3. Запустить файл file.py.
+4. Ввести ник.
+5. Играть.
 
 
